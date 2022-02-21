@@ -1,4 +1,5 @@
-// Program to manage bank functions using the concept of dynamic hashing
+// Program to manage bank functions and validations using the concept of dynamic hashing
+
 #include <bits/stdc++.h>
 
 int admin_id=1234, admin_pin=5678, num, overflow_flag=0;
